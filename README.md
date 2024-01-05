@@ -1,6 +1,6 @@
 <img src="https://github.com/mjaroszewski1979/github_actions_test/blob/main/picture.jpg">
 
-## Github Actions Test
+## Github Actions Test 1
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum metus elit, at blandit augue lobortis et. Aliquam at risus ac neque ornare imperdiet ac vitae nulla. Aenean semper sodales finibus. Quisque in eros at lacus sagittis viverra sed aliquet libero. Praesent at ultrices odio, eu vestibulum dolor. Praesent pretium purus a congue commodo. Nullam imperdiet justo consectetur tincidunt egestas.
 
 Nunc facilisis ante libero, nec rutrum nulla sodales et. Integer egestas dolor vel gravida ultricies. Nulla a sapien efficitur, pharetra tellus accumsan, porta odio. Nulla ac dolor tortor. Nunc sed nibh ac enim ultricies ornare vel nec massa. Nullam egestas mi sem. Donec vel lectus venenatis, egestas augue scelerisque, porttitor lorem.
