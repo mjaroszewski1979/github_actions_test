@@ -1,4 +1,4 @@
-<img src="https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/cov_report.png">
+<img src="https://github.com/mjaroszewski1979/github_actions_test/blob/main/picture.jpg">
 
 ## Github Actions Test
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum metus elit, at blandit augue lobortis et. Aliquam at risus ac neque ornare imperdiet ac vitae nulla. Aenean semper sodales finibus. Quisque in eros at lacus sagittis viverra sed aliquet libero. Praesent at ultrices odio, eu vestibulum dolor. Praesent pretium purus a congue commodo. Nullam imperdiet justo consectetur tincidunt egestas.
