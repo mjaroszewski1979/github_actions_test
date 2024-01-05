@@ -15,7 +15,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyyaml
       - name: Run Python File
-        run: run hello.py
+        run: python hello.py
       - name: Push Repo
         run: |
           git config user.name maciej
